@@ -1,8 +1,5 @@
 Create a robust Login and Registration System using PHP and MySQL for seamless user authentication. This project ensures secure user data storage and retrieval, enhancing website or application security. Employ hashing techniques to protect passwords, implement form validation for data integrity, and establish a dynamic database connection for efficient user management. Enhance user experience by incorporating features like password recovery and responsive design. This project provides a foundational structure for web development, promoting a secure and user-friendly environment for online platforms.
 
-Documentation-
-https://nateduhamell.com/github-project-login-sign-up-form/
-
 Features-
 * stores passwords in DB as hashes
 * modern and minimalistic design
