@@ -16,7 +16,4 @@ Update the db.php File Details as shown Below:
 
 <a href="https://i.imgur.com/YK3mpAM.jpg" target="_blank"><img style="padding-left:5%;" src="https://i.imgur.com/YK3mpAM.jpg" alt="Login/Register Form Install Instructions" width="100%"></img></a>
 
-Preview-
-Login Form: https://files.nateduhamell.com/test/login-signup-form-master/login.php
 
-Registration Form: https://files.nateduhamell.com/test/login-signup-form-master/registration.php
